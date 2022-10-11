@@ -46,6 +46,11 @@
       <path value="$PROJECT_DIR$/tanulos5/vendor/symfony/twig-bundle" />
       <path value="$PROJECT_DIR$/tanulos5/vendor/symfony/stopwatch" />
       <path value="$PROJECT_DIR$/tanulos5/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/tanulos5/vendor/symfony/monolog-bridge" />
+      <path value="$PROJECT_DIR$/tanulos5/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/tanulos5/vendor/symfony/debug-bundle" />
+      <path value="$PROJECT_DIR$/tanulos5/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/tanulos5/vendor/symfony/asset" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />

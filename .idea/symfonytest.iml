@@ -13,6 +13,11 @@
       <excludeFolder url="file://$MODULE_DIR$/tanulos5/vendor/symfony/twig-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/tanulos5/vendor/symfony/stopwatch" />
       <excludeFolder url="file://$MODULE_DIR$/tanulos5/vendor/symfony/web-profiler-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/tanulos5/vendor/symfony/monolog-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/tanulos5/vendor/symfony/monolog-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/tanulos5/vendor/symfony/debug-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/tanulos5/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/tanulos5/vendor/symfony/asset" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
